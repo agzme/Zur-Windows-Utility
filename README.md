@@ -2,5 +2,5 @@
 My custom Windows toolbox to manage windows 
 
 ```powershell
-irm "https://zur.software/launch.ps1" | iex
+irm "https://zur.software/wut" | iex
 ```
